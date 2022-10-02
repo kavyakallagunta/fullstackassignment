@@ -1,0 +1,25 @@
+.text{
+    padding-bottom: 50px;
+}
+.btn{
+    width: 265px;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 5px;
+}
+.card{
+    width: 300px;
+    height: 350px;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 3px; /* Added */
+    margin-top: 20px;
+
+}
+.form-label{
+    width: 300px;
+    
+}
+td{
+    padding: 80px;
+}
